@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ariyoushbay
+- 👋 Hi, I’m aria
 - 👀 I’m interested in game
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
